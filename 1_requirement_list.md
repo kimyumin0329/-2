@@ -1,4 +1,4 @@
-개인코드: 2025CS999  
+개인코드: 13508
 GitHub 주소: https://github.com/kimyumin0329/-2  
 
 # Requirement List – 공유 자전거 대여 시스템
